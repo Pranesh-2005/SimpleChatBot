@@ -1,1 +1,1 @@
-This is a basic chat bot application with DocerFile
+This is a basic chat bot application with DockerFile
